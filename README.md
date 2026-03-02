@@ -3,6 +3,25 @@
 
 Welcome to the Java Bootcamp! This repository is designed to bridge your existing C/C++ knowledge into the world of Java, Object-Oriented Programming (OOP), and the "Write Once, Run Anywhere" (WORA) ecosystem.
 
+---
+
+## 🍴 How to Follow Along (Fork & Clone)
+
+To save your progress and complete the homework, you should create your own copy of this repository:
+
+1.  **Fork this Repository:** Click the **Fork** button at the top-right of this GitHub page. This creates a copy of the project in your own GitHub account.
+2.  **Clone Your Fork:** Open your terminal (or Git Bash) and run:
+    ```bash
+    git clone https://github.com/YOUR_USERNAME/JavaBootCampEncide.git
+    ```
+    *(Replace `YOUR_USERNAME` with your GitHub handle)*
+3.  **Open in IntelliJ IDEA:**
+    *   Open IntelliJ IDEA.
+    *   Select **Open** and navigate to the folder where you cloned the repository.
+    *   IntelliJ will automatically detect the modules and project structure.
+
+---
+
 ## 🛠️ Repository Structure
 The project is divided into two days, with separate folders for instructor-led demonstrations and student practice:
 
