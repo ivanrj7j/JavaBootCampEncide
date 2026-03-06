@@ -52,7 +52,9 @@ The project is divided into two days, with separate folders for instructor-led d
 *   **Compilation:** Using `javac` to generate bytecode (`.class` files).
 *   **OO Mindset Shift:** Functional (FOD) vs. Object-Oriented Design (OOD).
 *   **Classes & Objects:** Blueprints vs. Instances.
-*   **The String Debate:** Memory impact of `String` vs. `StringBuffer`.
+*   **Command-Line Arguments:** Reading and using `args[]` in `main`.
+*   **Static Methods:** Utility-style methods that belong to a class.
+*   **`final` Keyword:** Creating constants and enforcing immutability of values.
 *   **Encapsulation:** Using `private` modifiers and getters/setters.
 
 ### 📝 Day 1 Homework Tasks
